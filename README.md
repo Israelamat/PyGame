@@ -11,7 +11,7 @@ Este juego de carreras, desarrollado con Pygame, te sumerge en emocionantes carr
 
 ## Requisitos del Sistema
 
-- Python 3.x instalado.
+- Python 3.9 instalado.
 - Pygame instalado.
 
 ## Ejecución del Juego
